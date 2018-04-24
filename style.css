@@ -1,0 +1,65 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: 'Kaushan Script', cursive;
+}
+
+header.startup {
+	background-position: center;
+	background-image: url("header.jpg");
+	background-size: cover;
+	height: 100%; 
+}
+
+header.startup h1 {
+	margin-bottom: 200px;
+	font-size: 2rm;
+}
+
+.btn {
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+}
+
+.btm-xl {
+	padding: 1rem 2rem;
+}
+
+.btn-primary:hover {
+	background-color: green;
+	border-color: green;
+	border-width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
